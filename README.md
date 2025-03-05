@@ -18,7 +18,7 @@ Wireframe : https://whimsical.com/project-kelas-industri-NRuVR9tAUqHLubDgZUPrtW 
 ## Step by step installation
 #### 1. Clone this repository
 ```
-git clone https://github.com/0x1m4o/Industry-Project.git
+git clone https://github.com/0x1m4o/industry-project.git
 ```
 or 
 #### Download the zip file
